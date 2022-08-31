@@ -1,0 +1,17 @@
+class variable2 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Prg Sarted");
+		
+		int num1=25,num2=30,num3=50;
+		int result = num1+num2+num3;
+
+		System.out.println("first num:" +num1);
+		System.out.println("second num:" +num2);
+		System.out.println("third num:" +num3);
+		System.out.println("Sum of nums:" +result);
+
+		System.out.println("Prg End");
+	}
+}
